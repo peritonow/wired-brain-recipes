@@ -19,7 +19,9 @@ git remote add origin https://github.com/peritonow/wired-brain-recipes.git
 git push -u origin main
 ```
 
+```
 git status --short
 git diff --staged
 git diff --staged --no-renames
 git commit -a -m "add new vendor"
+```
