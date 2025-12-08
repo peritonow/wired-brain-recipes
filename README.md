@@ -24,4 +24,6 @@ git status --short
 git diff --staged
 git diff --staged --no-renames
 git commit -a -m "add new vendor"
+git push origin main
+// explanation: push changes to origin main branch
 ```
