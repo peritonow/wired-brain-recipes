@@ -44,4 +44,5 @@ git reset --mixed // default move commit(s) working directory
 git reset --hard  // move commit(s) discard all changes (warning changes deleted from working directory and staging area)
 git log --oneline
 git reset --mixed 293b8b2
+git push origin main
 ```
